@@ -5,6 +5,8 @@ import todolist from '@/components/todolist'
 Vue.use(Router)
 
 export default new Router({
+	mode:"history",
+	base:"/mc/",
   routes: [
     {
       path: '/',

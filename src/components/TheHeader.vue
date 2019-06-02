@@ -78,7 +78,7 @@
 	.finish{text-decoration: line-through;color: #ccc;}
 	.startInput{border: 2px solid #0285d3;width: 476px;height: 36px;padding: 10px;font-size: 20px;}
 	.allThings{padding: 20px;border: 1px solid #cccaca;background: #fff;box-shadow: 0 0 5px #ccc;}
-	.allThings li{font-size: 20px;height: 40px;line-height: 40px;border-bottom: 1px solid #ededed;}
+	.allThings li{font-size: 20px;line-height: 40px;border-bottom: 1px solid #ededed;}
 	.allThings li label{user-select: none;display: inline-block;width: 400px;}
 	.allThings li button{background: #ac0b17;color: #fff;font-size: 20px;padding: 5px;border-radius: 8px;}
 	.showTip{padding: 20px;font-size: 20px;}
